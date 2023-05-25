@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erpremraj
-- 👀 I’m interested in coding, making projects, learningnew technologies and new programming languages.
+- 👀 I’m interested in coding, making projects, learning new technologies and new programming languages.
 - 🌱 I’m currently learning new technologies to improve my programming language skills...
 - 💞️ I’m looking to collaborate on who can find my error in my code...
 - 📫 How to reach me ... my instagram id is @mr_premraj_
